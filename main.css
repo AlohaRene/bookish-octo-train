@@ -297,22 +297,26 @@ header .fa {
 
 /* content area */
 #content-area {
-  /* background: #fafafa; */
+  background: #fafafa;
   /* overflow: auto; */
   /* padding: 50px 0; */
 }
 
 #content-area .side-column {
   float: left;
-  width: 50%;
-  background-color: rgb(0, 255, 170);
+  width: 60%;
+  /* background-color: rgb(0, 255, 170); */
+  /* height: 100vh; */
+}
+#content-area .side-column img {
+  background-size: cover;
   height: 100vh;
 }
 
 #content-area .main-area {
   float: right;
-  width: 50%;
-  background-color: rgb(229, 255, 0);
+  width: 40%;
+  background-color: #ff3838;
   height: 100vh;
 }
 
