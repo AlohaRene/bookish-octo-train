@@ -309,7 +309,8 @@ header .fa {
   /* height: 100vh; */
 }
 #content-area .side-column img {
-  background-size: cover cover;
+  /* background-size: cover top; */
+  object-fit: cover;
   height: 100vh;
   width: 100%;
 }
@@ -323,7 +324,7 @@ header .fa {
 }
 
 #content-area .main-area .text {
-  position: fixed;
+  position: absolute;
   top: 50%;
 }
 
