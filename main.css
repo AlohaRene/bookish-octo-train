@@ -326,6 +326,7 @@ header .fa {
 #content-area .main-area .text {
   position: absolute;
   top: 50%;
+  padding: 45px;
 }
 
 #content-area .main-area h1 {
