@@ -325,18 +325,18 @@ header .fa {
 
 #content-area .main-area .text {
   position: absolute;
-  top: 25%;
+  top: 15%;
   padding: 45px;
 }
 
 #content-area .main-area h1 {
-  font-size: 80px;
+  font-size: 100px;
   font-family: "Montserrat", sans-serif;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 #content-area .main-area p {
-  font-size: 18px;
+  font-size: 25px;
   font-family: "Montserrat", sans-serif;
   margin-bottom: 80px;
 }
